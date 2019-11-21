@@ -9,11 +9,11 @@
 
 ##หน้าแรก
 
-![Imgur](https://i.imgur.com/jTHCD8s.jpg | width=100)
+![Imgur](https://i.imgur.com/jTHCD8sl.jpg)
 
 ##การใช้งาน
 
-![Imgur](https://i.imgur.com/bMYMy1j.jpg)
+![Imgur](https://i.imgur.com/bMYMy1jml.jpg)
 
 ##ผลลัพธ์
 
