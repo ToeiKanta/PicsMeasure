@@ -9,7 +9,7 @@
 
 ##หน้าแรก
 
-![Imgur](https://i.imgur.com/jTHCD8s.jpg)
+![Imgur](https://i.imgur.com/jTHCD8s.jpg | width=100)
 
 ##การใช้งาน
 
