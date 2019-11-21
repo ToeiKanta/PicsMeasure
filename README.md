@@ -13,12 +13,12 @@
 
 ##การใช้งาน
 
-![Imgur](https://i.imgur.com/bMYMy1jml.jpg)
+![Imgur](https://i.imgur.com/bMYMy1jl.jpg)
 
 ##ผลลัพธ์
 
-![Imgur](https://i.imgur.com/6or9Hi0.jpg)
+![Imgur](https://i.imgur.com/6or9Hi0l.jpg)
 
 ##ผลลัพธ์จริง
 
-![Imgur](https://i.imgur.com/Oh6D7Vl.jpg)
+![Imgur](https://i.imgur.com/Oh6D7Vll.jpg)
